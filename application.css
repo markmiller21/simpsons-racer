@@ -1,0 +1,25 @@
+body {
+  background-image: url("https://coubsecure-a.akamaihd.net/get/b69/p/coub/simple/cw_timeline_pic/904ba71ef5e/342849279e80703670d56/big_1431643954_image.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+
+.lanes {
+  position: relative;
+  top: 20em;
+}
+
+.resize {
+  height: 18em;
+  width: auto;
+}
+
+#homer {
+  position: relative;
+  left: 0px;
+}
+
+#duffman {
+  position: relative;
+  left: 0px;
+}
